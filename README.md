@@ -1,2 +1,2 @@
 # jaqpot-python-runtime
-Jaqpot python runtime for models
+Jaqpot python runtime
